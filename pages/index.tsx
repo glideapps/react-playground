@@ -4,4 +4,4 @@ const Wrapper = styled.div``;
 
 const Home = () => <Wrapper>Hello world!</Wrapper>;
 
-export default Wrapper;
+export default Home;
